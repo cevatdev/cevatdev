@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @cevatdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m @cevatdev
 
-<!---
-cevatdev/cevatdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 Interests
+I'm passionate about all things **software development**. My main focus is on:
+- **Java**, **JavaScript**, **C#**, **C++**, and **BAT** scripting.
+- **Game Development** and **Custom Tools**.
+- Exploring **code obfuscation** and security practices.
+
+### 🌱 Currently Learning
+- Enhancing my knowledge in **cryptography** and **networking**.
+- Delving deeper into **full-stack web development** and **API integrations**.
+
+### 💞️ Collaboration
+I'm open to collaborating on:
+- **Open-source projects** related to software tools.
+- **Game mods** or **simulator projects**.
+- Building **utility tools** for developers or players.
+
+### 📫 How to Reach Me
+- **GitHub:** [cevatdev](https://github.com/cevatdev)
+- Feel free to contact me for project inquiries, collaborations, or just to say hello!
+
+### 😄 Pronouns
+- He/Him
+
+### ⚡ Fun Fact
+I'm always trying to find the most efficient ways to **optimize code** while keeping things **fun and creative**.
