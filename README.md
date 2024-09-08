@@ -25,3 +25,10 @@ I'm open to collaborating on:
 
 ### ⚡ Fun Fact
 I'm always trying to find the most efficient ways to **optimize code** while keeping things **fun and creative**.
+
+# 📊 GitHub Stats
+
+![cevatdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cevatdev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cevatdev&layout=compact&theme=radical)
+
